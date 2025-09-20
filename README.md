@@ -1,23 +1,25 @@
 # 👋 Hi, I'm Okumu Joseph  
 
-💻 Aspiring software developer passionate about **web applications, fintech, and AI-driven solutions**.  
-🚀 Building projects like **Comrade Market Kenya**, **RavenFleetX**, and **PhantomChat**.  
-🌱 Currently learning **Node.js, PostgreSQL, Web3.js, and Django**.  
-🤝 Open to collaborations in **open-source, fintech, and AI projects**.  
-📩 Reach me: [okumuraven@gmail.com](mailto:okumuraven@gmail.com)  
+💻 **Aspiring Software Developer** passionate about **web applications, fintech, and AI-driven solutions**.  
+🚀 Currently building:  
+- 🛒 **Comrade Market Kenya** – a student-driven e-commerce & delivery platform  
+- 🕊 **RavenFleetX** – crypto airdrops, forex competitions, and blockchain utilities  
+- 👻 **PhantomChat** – anonymous, private group chat platform  
 
----
+🌱 Actively learning **Node.js, PostgreSQL, Web3.js, and Django**  
+🤝 Open to collaborations in **open-source, fintech, and AI projects**  
+📩 Reach me: [okumuraven@gmail.com](mailto:okumuraven@gmail.com)  
 
 ## 🛠️ Tech Stack  
 
-**Languages:**  
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 
-**Frameworks & Tools:**  
+**Frameworks & Tools**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
@@ -32,7 +34,7 @@
 
 ## 📊 GitHub Analytics  
 
-<!-- Make sure you generated a Personal Access Token (PAT) with repo scope and set it as PAT_1 in repo secrets -->
+> 🔐 Includes both public & private commits  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=okumuraven&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okumuraven&layout=compact&count_private=true&theme=tokyonight)  
