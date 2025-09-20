@@ -1,68 +1,51 @@
-# Hi there, I'm Okumu Joseph 👋
+# 👋 Hi, I'm Okumu Joseph  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)
-
-### 🚀 About Me
-
-I'm a passionate developer specializing in **[Your Specialization, e.g., Backend Development, Data Science, DevOps]** who loves building efficient, scalable, and impactful software. I enjoy turning complex problems into simple, beautiful solutions.
-
-- 🔭 I’m currently working on **[...]**
-- 🌱 I’m currently learning **[...]**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **R, Python, DevOps, ...** (List your strengths)
-- ⚡ Fun fact: I love hiking and playing the guitar!
+💻 Aspiring software developer passionate about **web applications, fintech, and AI-driven solutions**.  
+🚀 Building projects like **Comrade Market Kenya**, **RavenFleetX**, and **PhantomChat**.  
+🌱 Currently learning **Node.js, PostgreSQL, Web3.js, and Django**.  
+🤝 Open to collaborations in **open-source, fintech, and AI projects**.  
+📩 Reach me: [okumuraven@gmail.com](mailto:okumuraven@gmail.com)  
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-**Languages & Frameworks:**
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 
-**Tools & Technologies:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Databases:**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-*(Customize the above badges with your actual skills. You can find more at [shields.io](https://shields.io/))*
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/OkumuJoseph">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OkumuJoseph&show_icons=true&theme=radical&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkumuJoseph&layout=compact&theme=radical&hide_border=true" />
-  </a>
-</p>
+**Frameworks & Tools:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
 
 ---
 
-### 🏆 Achievements
+## 📊 GitHub Analytics  
 
-- **Highlight 1:** Briefly describe a key achievement (e.g., "Contributed to [Project Name]")
-- **Highlight 2:** Another achievement (e.g., "Won [Hackathon Name]")
-- **Highlight 3:** Something you're proud of.
+<!-- Make sure you generated a Personal Access Token (PAT) with repo scope and set it as PAT_1 in repo secrets -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=okumuraven&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okumuraven&layout=compact&count_private=true&theme=tokyonight)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=okumuraven&count_private=true&theme=tokyonight)  
 
 ---
 
-### 📫 How to reach me
+## 🌍 Connect with Me  
 
-- **Email:** your.email@domain.com
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
-- **Portfolio:** [Your Website](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)  
 
-<!---
-**OkumuJoseph/OkumuJoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+---
+
+✨ *“Code is only as powerful as the dream behind it.”*  
