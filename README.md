@@ -36,18 +36,25 @@
 
 > 🔐 Includes both public & private commits  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=okumuraven&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okumuraven&layout=compact&count_private=true&theme=tokyonight)  
+<!-- Lifetime stats -->
+![GitHub Stats (All Time)](https://github-readme-stats-okumuraven.vercel.app/api?username=okumuraven&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)  
+
+
+<!-- Top languages -->
+![Top Languages](https://github-readme-stats-okumuraven.vercel.app/api/top-langs/?username=okumuraven&layout=compact&count_private=true&theme=tokyonight)  
+
+<!-- Streak stats -->
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=okumuraven&count_private=true&theme=tokyonight)  
 
----
+<!-- Contribution graph -->
+![Okumu's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=okumuraven&theme=tokyo-night)  
+
 
 ## 🌍 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)  
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okumuraven)  
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Ravenfleetx)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joseraven01)  
+[![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ravenfleetx01)  
 
 ✨ *“Code is only as powerful as the dream behind it.”*  
